@@ -1,0 +1,32 @@
+#name{
+    font-family: 'Itim', cursive;
+    text-align: center;
+    margin-top: auto;
+    padding-top: 2%;
+  
+    
+
+}
+.whole{
+    background-color:lightpink;
+   
+}
+.ponly{
+   
+    
+    width: 12%;
+    height: 50%;
+    
+    animation: mymove 5s infinite;
+}
+@keyframes mymove {
+    50% {transform: rotate(180deg);}
+  }
+  div{
+      text-align: center;
+  }
+  /* #haha{
+    position:fixed;
+    left: 80 %;
+    bottom: 10%;
+  } */
